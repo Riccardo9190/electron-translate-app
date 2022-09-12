@@ -24,6 +24,11 @@ you can do the following steps:
 
 ## Project Images
 <p>
-<img src="https://github.com/Riccardo9190/electron-translate-app/blob/master/public/readme_images/1.png" width="404" height="311"/>
+<img src="https://github.com/Riccardo9190/electron-translate-app/blob/master/public/readme_images/1.png" width="404" height="311"/>ㅤ
 <img src="https://github.com/Riccardo9190/electron-translate-app/blob/master/public/readme_images/2.png" />
+</p>
+
+<p>
+<img src="https://github.com/Riccardo9190/electron-translate-app/blob/master/public/readme_images/3.png" width="404" height="311"/>ㅤ
+  <img src="https://github.com/Riccardo9190/electron-translate-app/blob/master/public/readme_images/4.png" width="404" height="311"/>ㅤ
 </p>
