@@ -1,5 +1,5 @@
 # Electron Translate App
-A desktop translate app built with Electron, Typescript and [Translate Shell](https://github.com/soimort/translate-shell)
+A desktop translate app built with Electron, Typescript and [Translate Shell](https://github.com/soimort/translate-shell).
 
 ### Technologies Used:
 
