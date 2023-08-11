@@ -5,12 +5,12 @@ A desktop translate app built with Electron, Typescript and [Translate Shell](ht
 
 - Electron
 - Typescript
-- Shell Script
+- Translate Shell
 
 ### To Run Locally
 
-To run locally you need to have the [translate shell](https://github.com/soimort/translate-shell) installed in your machine. After installing it, 
-you can do the following steps: 
+To run locally you need to have the [Translate Shell](https://github.com/soimort/translate-shell) installed in your machine. After installing it, 
+you can continue the installation procedure.
 
 - Clone this repository with ```git clone https://github.com/Riccardo9190/electron-translate-app.git```
 
