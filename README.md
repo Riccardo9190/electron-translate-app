@@ -4,7 +4,7 @@ A desktop translate app built with Electron and [Translate Shell](https://github
 ### Technologies Used:
 
 - Electron
-- Translate Shell
+- [Translate Shell](https://github.com/soimort/translate-shell)
 
 ### To Run Locally
 
