@@ -1,10 +1,10 @@
 # Electron Translate App
-A desktop translate app built with Electron and [Translate Shell](https://github.com/soimort/translate-shell).
+A desktop translate app built with Electron and Translate Shell.
 
 ### Technologies Used:
 
 - Electron
-- [Translate Shell](https://github.com/soimort/translate-shell)
+- Translate Shell
 
 ### To Run Locally
 
